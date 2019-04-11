@@ -1,0 +1,20 @@
+{
+    "name": "mudasserzahid/laravel-qr-code",
+    "description": "Laravel QR Code: Using QR Code for you prject.",
+    "keywords": [
+        "mpdf",
+        "pdf",
+        "laravel"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0.0",
+        "mpdf/mpdf": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mudassar\\LaravelQrCode\\": "laravel-qr-code",
+            "Mudassar\\QrCode\\": "qr-code"
+        }
+    }
+}
