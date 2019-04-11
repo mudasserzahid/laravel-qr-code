@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "werneckbh/qr-code": "^2.1"
+        "mudasserzahid/qr-code": "^2.1"
     },
     "autoload": {
         "psr-4": {
